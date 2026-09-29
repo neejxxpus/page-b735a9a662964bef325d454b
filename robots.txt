@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://web.mztnjsv.cn/sitemap.xml
